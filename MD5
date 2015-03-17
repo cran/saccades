@@ -1,11 +1,11 @@
-1c2f721909cea433eba29872d53ea6ea *DESCRIPTION
+75b26aa77e9c3ebb9b2ac15ebfcf15b2 *DESCRIPTION
 819a8b4f871dc149160a3faba1fef4d4 *NAMESPACE
 f48eeecd69acdeadbb8eec97fe109f08 *R/diagnostics.R
-56cced63f159801062bb9249d2ec680e *R/saccade_recognition.R
+b97a4090a341069e94b438b10b4aed10 *R/saccade_recognition.R
 ca5019efe27ab67894b2c520eca4230f *data/fixations.rda
 339d6300376a27a0567b0d3c59f7304c *data/samples.rda
 8071445375d4690bf132b8040b27902c *man/calculate.summary.Rd
-31aaa95966068776dbf058d590272d2f *man/detect.fixations.Rd
+1ebdc1df69b04822ffdd2082bac4926a *man/detect.fixations.Rd
 57a7b1f498d556c6d335e95c459bcbdd *man/diagnostic.plot.Rd
 6c7a1dd37e6de1287c8a5015e5e74c27 *man/fixations.Rd
 f73014af274f470e1e5c4a79e8cf8580 *man/saccades.Rd

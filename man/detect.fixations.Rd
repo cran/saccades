@@ -59,7 +59,7 @@ data frame containing fixations.
 \section{Details}{
  This function uses a velocity-based detection
 algorithm for saccades proposed by Engbert and Kliegl.  Anything
-between two saccades is considered to be a fixation.  Thus the
+between two saccades is considered to be a fixation.  Thus, the
 algorithm is not suitable for data sets containing episodes of
 smooth pursuit eye movements.
 }
